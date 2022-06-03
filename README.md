@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adriano-ulend
 - 👀 I’m interested in Backend development
-- 🌱 I’m currently learning Python Flask/Django + APIRest
+- 🌱 I’m currently learning Python Flask/Django + APIRest + SQL/NoSQL Databases + Docker
 - 💞️ I’m looking to collaborate on Web and Data Analytics projects
 
 <!---
